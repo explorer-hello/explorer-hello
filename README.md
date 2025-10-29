@@ -4,11 +4,9 @@
 I build web applications and data-driven prototypes using **ASP.NET / C#**, **Python**, and **MySQL**. I follow a *learn-by-building* approach — every new skill I pick up is accompanied by a small project or notebook that demonstrates it.
 
 
----
+### 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-### 🧑‍💻 **Languages**
+#### 🧑‍💻 **Languages**
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -16,10 +14,7 @@ I build web applications and data-driven prototypes using **ASP.NET / C#**, **Py
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <br><br>
 
-
----
-
-### ⚙️ **Backend & Frameworks**
+#### ⚙️ **Backend & Frameworks**
 <img align="left" alt="ASP.NET" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt=".NET Core" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="FastAPI" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
@@ -27,9 +22,7 @@ I build web applications and data-driven prototypes using **ASP.NET / C#**, **Py
 <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <br><br>
 
----
-
-### 📊 **Data & Machine Learning**
+#### 📊 **Data & Machine Learning**
 <img align="left" alt="NumPy" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="scikit-learn" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
@@ -38,9 +31,7 @@ I build web applications and data-driven prototypes using **ASP.NET / C#**, **Py
 <img align="left" alt="OpenCV" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
 <br><br>
 
----
-
-### 🧰 **Tools & DevOps**
+#### 🧰 **Tools & DevOps**
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
